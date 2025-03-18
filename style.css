@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(50, 70, 80);
+}
+h1{
+    text-align: center;
+    color: rgb(150, 189, 127);
+    font-size: 60px;
+}
+h2{
+    text-align: center;
+    color: rgb(129, 189, 61);
+    border-style: double;
+    border-width: 10%;
+    border-color: rgb(0, 70, 150);
+    margin-right: 40%;
+    margin-left: 40%;
+}
+h3{
+    text-align: center;
+}
+#img1{
+    width: 50%;
+    margin-left: 25%;
+}
